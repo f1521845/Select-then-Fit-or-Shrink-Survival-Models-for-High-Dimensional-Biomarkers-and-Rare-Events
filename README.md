@@ -4,7 +4,7 @@ Analysis code for a preregistered neutral comparison study: a simulation study (
 
 - **Author:** Raghad Alhuthil
 - **Preregistration:** Open Science Framework (link to be added)
-- **Status:** code frozen at registration, before the main simulation. The release tagged `v1.0-registration` is the version registered on OSF. Any later change will be listed in the deviations table of the paper.
+- **Status:** code frozen at registration, before the main simulation. The release tagged `survival_models` is the version registered on OSF. Any later change will be listed in the deviations table of the paper.
 
 ## Paper workflow
 
